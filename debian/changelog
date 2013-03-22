@@ -1,3 +1,9 @@
+jzmq (2.1.0-2) unstable; urgency=low
+
+  * hacked release to build in our env
+
+ -- Krux Ops <ops@krux.com>  Fri, 22 Mar 2013 19:43:20 +0000
+
 jzmq (2.1.0-1) unstable; urgency=low
 
   * Development release
