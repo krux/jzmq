@@ -35,9 +35,6 @@ clean:
 	dh_testroot
 	rm -f build-stamp configure-stamp
 
-	if [ -e Makefile ]; then make distclean; fi
-	rm -rf config.log
-
 	dh_clean
 
 install: build
